@@ -1,0 +1,7 @@
+*.pyc
+bin/parjobs
+.idea/
+preprocess/config.yaml
+repos/
+final_results/
+bin/config.yaml

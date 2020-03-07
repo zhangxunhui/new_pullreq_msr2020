@@ -1,0 +1,20 @@
+# configuration for ruby code
+sql:
+  url: mysql2://root:111111@localhost/ghtorrent0619
+
+# configuration for python code
+mysql:
+  host: "host address"
+  user: "username"
+  passwd: "password"
+  db: "dbname"
+
+
+mongo:
+  host: "host address"      # Mongo's IP addr
+  port: "mongo port"          # Mongo's port
+  db: "dbname"     # DB name
+  username: "username"     # User name to connect to Mongo
+  password: "password"     # Password for mongo
+  ssl: "false"           # Whether SSL should be used for the connection
+  replicas:
