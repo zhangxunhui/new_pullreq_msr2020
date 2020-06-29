@@ -1,3 +1,7 @@
 The data can be downloaded from
 1. csv file: https://zenodo.org/record/3895038/files/new_pullreq.csv?download=1
 2. sql file(mysql): https://zenodo.org/record/3895038/files/new_pullreq.sql?download=1
+
+Sorry, the download is not available right now. Because of the privacy problem, we need to change something.
+
+The download link is coming soon.
