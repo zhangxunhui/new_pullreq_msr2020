@@ -25,3 +25,7 @@ gem install mysql2 bson_ext
 For Step 6~11, we made a sql file for test project ```mozilla-services server-syncstorage(see file test_pullreq.sql)```. You can simply import the database, and run step 12 to see the results.
 
 In the data folder, there are download url for both csv and sql files. By using our program, you can get as much data as you can.
+
+
+## Other information
+The id of pull request has been removed because of privacy problem.
